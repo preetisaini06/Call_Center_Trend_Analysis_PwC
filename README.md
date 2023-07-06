@@ -1,4 +1,4 @@
-# Call_Center_Trend_Analysis_Pwc
+# Call_Centre_Trend_Analysis_Pwc
 
 ### Objective
 The Main purpose of this analysis is to improve customer satisfaction rate by analyzing call center dataset. Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
